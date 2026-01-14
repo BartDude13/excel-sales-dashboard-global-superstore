@@ -98,7 +98,7 @@ Below is a preview of the final Excel dashboard:
 
 ├── excel/
 
-│ └── Global_Superstore_Analysis.xlsx
+│ └── README.md
 
 ├── dashboard/
 
